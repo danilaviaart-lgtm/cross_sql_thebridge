@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "pysqlite3>=0.6.0",
+    "sqlalchemy>=2.0.49",
+]
