@@ -3,7 +3,7 @@
 <img src="src/img/cross_sql_cover.png" width="900">
 
 Este proyecto contiene la base de datos central de **The Bridge**, integrada por
-sus tres departamentos. Su estructura permite gestionar de forma unificada la
+dos departamentos. Su estructura permite gestionar de forma unificada la
 información de sedes, cursos, alumnos y calificaciones.
 
 ## 🏗️ Estructura de la Base de Datos
@@ -43,9 +43,7 @@ La base de datos se organiza en las siguientes tablas principales:
 
 Prerrequisitos
 
-Python 3.10 o superior
-PostgreSQL 14 o superior (o Docker)
-Git
+Python 3.14 o superior, PostgreSQL 14 o superior (o Docker) y Git
 
 1. Clonar el repositorio
 2. Instalar dependencias de Python
@@ -65,4 +63,4 @@ Git
 | Jaime Rubio          | [BV-Works](https://github.com/BV-Works)                    |
 
 ---
-*Base de datos colaborativa de los 2 departamentos de The Bridge.*
+*Base de datos colaborativa de los 2 departamentos de The Bridge (Full Stack y Data Science).*
