@@ -1,5 +1,7 @@
 # cross_sql_thebridge
 
+<img src="src/img/cross_sql_cover.png" width="900">
+
 Este proyecto contiene la base de datos central de **The Bridge**, integrada por sus tres departamentos. Su estructura permite gestionar de forma unificada la información de sedes, cursos, alumnos y calificaciones.
 
 ## 🏗️ Estructura de la Base de Datos
