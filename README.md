@@ -29,11 +29,11 @@ La base de datos se organiza en las siguientes tablas principales:
 * **PostgresSQL** para la base de datos POSTGRESS
 * **PYTHON 3.14** para la gestión de datos.
 * **Dependencias**
-*numpy>=2.4.4
-*pandas>=3.0.2
-*pysqlite3>=0.6.0
-*python-dotenv>=1.2.2
-*sqlalchemy>=2.0.49
+numpy>=2.4.4
+pandas>=3.0.2
+pysqlite3>=0.6.0
+python-dotenv>=1.2.2
+sqlalchemy>=2.0.49
 * **ERD** (Diagrama Entidad-Relación) para el diseño de la estructura.
 * **PGAdmin 4** Interfaz gráfica para administrar la base de datos
 * **Docker** Contenerización del entorno de base de datos
